@@ -17,6 +17,7 @@
 | 14 | Рекурсия | `lesson14/task1.py` |
 | 15 | ООП | `lesson15/task1.py`, `task2.py` |
 | 16 | Классы и объекты | `lesson16/task1.py`, `task2.py` |
+| 23 | Проект: игра «Вертолёт» | `lesson23/` — см. [README](lesson23/README.md) |
 
 ## Запуск
 
