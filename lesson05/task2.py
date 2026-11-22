@@ -1,4 +1,5 @@
 # Урок 5. Задание 2 — гласные и согласные в слове
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson05
 
 word = input("Слово из маленьких латинских букв: ")
 vowels = "aeiou"

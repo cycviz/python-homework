@@ -1,4 +1,5 @@
 # Урок 11. Задание 2 — "база данных" ветклиники (CRUD)
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson11
 import collections
 
 pets = {

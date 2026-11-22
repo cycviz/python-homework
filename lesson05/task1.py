@@ -1,4 +1,5 @@
 # Урок 5. Задание 1 — описание числа
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson05
 
 n = int(input("Целое число: "))
 

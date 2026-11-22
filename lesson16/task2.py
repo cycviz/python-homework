@@ -1,4 +1,5 @@
 # Урок 16. Задание 2 — класс Черепашка
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson16
 # В условии go_right() "увеличивает y" — опечатка: вправо меняется x.
 
 

@@ -1,4 +1,5 @@
 # Урок 10. Задание 1 — словарь питомцев
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson10
 
 pets = {}
 

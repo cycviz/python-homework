@@ -1,4 +1,5 @@
 # Урок 13. Задание 1 — генерация и сложение матриц
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson13
 import random
 
 

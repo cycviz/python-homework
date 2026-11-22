@@ -1,4 +1,5 @@
 # Урок 8. Задание 2 — циклический сдвиг вправо на 1
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson08
 
 
 def shift_right(arr):

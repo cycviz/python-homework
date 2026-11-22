@@ -1,4 +1,5 @@
 # Урок 5. Задание 3 — инвесторы Майкл и Иван
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson05
 
 x = int(input("Минимальная сумма инвестиций X: "))
 a = int(input("Деньги Майкла A: "))

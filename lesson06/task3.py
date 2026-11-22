@@ -1,4 +1,5 @@
 # Урок 6. Задание 3 — чётные числа на отрезке [A, B]
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson06
 
 a = int(input())
 b = int(input())

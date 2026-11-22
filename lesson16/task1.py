@@ -1,4 +1,5 @@
 # Урок 16. Задание 1 — класс Касса
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson16
 
 
 class CashRegister:

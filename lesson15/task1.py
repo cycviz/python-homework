@@ -1,4 +1,5 @@
 # Урок 15. Задание 1 — наследование
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson15
 
 
 class Transport:

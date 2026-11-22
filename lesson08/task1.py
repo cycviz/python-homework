@@ -1,4 +1,5 @@
 # Урок 8. Задание 1 — перевернуть массив
+# Репозиторий: https://github.com/cycviz/python-homework/tree/main/lesson08
 
 n = int(input())
 numbers = []
